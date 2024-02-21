@@ -1,0 +1,8 @@
+strategy:
+    matrix:
+      Linux:
+        imageName: 'ubuntu-latest'
+      Mac:
+        imageName: 'macOS-latest'
+      Windows:
+        imageName: 'windows-latest'
